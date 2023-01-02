@@ -13,7 +13,7 @@ app = Client(
     bot_token=cfg.BOT_TOKEN
 )
 
-gif = [
+jpg = [
     'https://te.legra.ph/file/eeecd6a0f07360f8dbaa5.jpg'
    
 
