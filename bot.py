@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/KwicAutoApproveBot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/Mmaccept_bot?start=start")
                     ]
                 ]
             )
@@ -97,10 +97,10 @@ async def chk(_, cb : CallbackQuery):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/MoviesNowOTT2"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/kwicbotupdates")
+                        InlineKeyboardButton("🗯 UPDATE", url="https://t.me/MM_MOVIESSS"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/MM_MOVIESSS")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/kwicapprovalbot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/Mmaccept_bot?startgroup")
                     ]
                 ]
             )
