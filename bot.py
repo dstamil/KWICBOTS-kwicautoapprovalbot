@@ -55,8 +55,8 @@ async def op(_, m :Message):
             keyboard = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("🗯 Channel", url="https://t.me/MoviesNowOTT2"),
-                        InlineKeyboardButton("💬 Support", url="https://t.me/kwicbotupdates")
+                        InlineKeyboardButton("🗯 UPDATE", url="https://t.me/MM_MOVIESSS"),
+                        InlineKeyboardButton("💬 Support", url="https://t.me/MM_MOVIESSS")
                     ],[
                         InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/kwicapprovalbot?startgroup")
                     ]
