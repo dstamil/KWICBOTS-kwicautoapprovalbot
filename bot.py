@@ -14,7 +14,7 @@ app = Client(
 )
 
 gif = [
-    'https://te.legra.ph/file/eeecd6a0f07360f8dbaa5.jpg'
+    'https://te.legra.ph/file/e1c67fff4643644d745de.mp4'
    
 
 ]
